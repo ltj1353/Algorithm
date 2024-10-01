@@ -27,7 +27,6 @@ jobs: # 실제 실행될 내용
         python update.py
     - name: Commit changes # 3) 추가된 파일 commit
       run: |
-        git remote set-url origin https://github.com/ltj1353/Algorithm/
         git config --global user.name 'ltj1353' # 유저명
         git config --global user.email 'taejini1353@gmail.com' # 유저 이메일
         git add -A
