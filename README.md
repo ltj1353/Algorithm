@@ -11,6 +11,7 @@
 |1037. 약수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1037.%E2%80%85%EC%95%BD%EC%88%98/%EC%95%BD%EC%88%98.py)|
 |10757. 큰 수 A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10757.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85A%EF%BC%8BB/%ED%81%B0%E2%80%85%EC%88%98%E2%80%85A%EF%BC%8BB.py)|
 |10989. 수 정렬하기 3|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10989.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%853/README.md)|
+|10998. A×B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10998.%E2%80%85A%C3%97B/A%C3%97B.py)|
 |2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/Hello%E2%80%85World.cc)|
 ### 🚀 Gold
 | 문제번호 | 링크 |
