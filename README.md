@@ -30,6 +30,7 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |11003. 최솟값 찾기|[링크](./%EB%B0%B1%EC%A4%80/Platinum/11003.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92%E2%80%85%EC%B0%BE%EA%B8%B0/README.md)|
+|1725. 히스토그램|[링크](./%EB%B0%B1%EC%A4%80/Platinum/1725.%E2%80%85%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8/README.md)|
 |3015. 오아시스 재결합|[링크](./%EB%B0%B1%EC%A4%80/Platinum/3015.%E2%80%85%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4%E2%80%85%EC%9E%AC%EA%B2%B0%ED%95%A9/README.md)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
