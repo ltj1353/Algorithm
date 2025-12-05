@@ -1,4 +1,3 @@
-#확인용입니다
 import sys
 input = sys.stdin.readline
 
