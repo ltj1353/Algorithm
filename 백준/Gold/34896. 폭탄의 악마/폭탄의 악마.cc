@@ -1,4 +1,3 @@
-//확인용입니다
 #include <iostream>
 #include <deque>
 #include <algorithm>
@@ -68,7 +67,6 @@ int main() {
             left = mid + 1;
         }
     }
-
     if (ans != 0)
         cout << ans;
     else
